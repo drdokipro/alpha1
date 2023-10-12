@@ -2,7 +2,7 @@
 Group=Default Group
 ModulesStructureVersion=1
 Type=StaticCode
-Version=7.8
+Version=8
 @EndOfDesignText@
 'Code module
 'Subs in this code module will be accessible from all modules.
